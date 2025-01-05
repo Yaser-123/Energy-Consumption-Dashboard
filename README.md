@@ -25,7 +25,9 @@ A Power BI dashboard analyzing energy consumption data for water, gas, and elect
 3. **Explore**: Interact with the dashboard, using slicers and filters for customized insights.  
 
 ## Screenshots  
-(Add relevant screenshots showcasing the dashboard features.)  
+![Dashboard Overview](Image/img-1.png)
+![Dashboard Overview](Image/img-2.png)
+![Dashboard Overview](Image/img-3.png)
 
 ## Future Scope  
 - Integration of real-time data for live monitoring.  
